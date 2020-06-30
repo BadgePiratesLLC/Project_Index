@@ -2,9 +2,9 @@
 Listing of all the Repositories
 
 ## DefCon
--[DefCon_SecKC_25](https://github.com/BadgePiratesLLC/DefCon_SecKC_25)
--[DefCon_SecKC_26](https://github.com/BadgePiratesLLC/DefCon_SecKC_26)
--[DefCon_SecKC_27](https://github.com/BadgePiratesLLC/DefCon_SecKC_27)
+-[DefCon_SecKC_25](https://github.com/BadgePiratesLLC/DefCon_SecKC_25)  
+-[DefCon_SecKC_26](https://github.com/BadgePiratesLLC/DefCon_SecKC_26)  
+-[DefCon_SecKC_27](https://github.com/BadgePiratesLLC/DefCon_SecKC_27)  
 -[DefCon_SecKCPartyStar_27](https://github.com/BadgePiratesLLC/DefCon_SecKCPartyStar_27)
     
 ## BSides
