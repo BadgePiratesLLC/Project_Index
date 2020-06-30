@@ -10,7 +10,7 @@ Listing of all the Repositories
 ## BSides
   [BSidesKC_2018](https://github.com/BadgePiratesLLC/BSidesKC_2018)  
   [BSidesKC_2019](https://github.com/BadgePiratesLLC/BSidesKC_2019)  
-  [BSidesKC_Kids_2019]  (https://github.com/BadgePiratesLLC/BSidesKC_Kids_2019)  
+  [BSidesKC_Kids_2019](https://github.com/BadgePiratesLLC/BSidesKC_Kids_2019)  
   [BSidesSTL_2019](https://github.com/BadgePiratesLLC/BSidesSTL_2019)  
 
 ## LTS(Learn to Solder)  
