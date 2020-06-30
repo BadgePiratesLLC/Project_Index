@@ -37,3 +37,6 @@ Listing of all the Repositories
   * [Misc_SecKC_Speaker_2018](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2018)  
   * [Misc_SecKC_Speaker_2019](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2019)  
   * [Misc_esp8266-simple-ota-server](https://github.com/BadgePiratesLLC/Misc_esp8266-simple-ota-server)  
+
+## BadgePirate Resources - KiCad Library of Common Foot prints used in Projects
+  * [BadgePirates_Common_Library](https://github.com/BadgePiratesLLC/BadgePirates_Common_Library)  
