@@ -2,16 +2,16 @@
 Listing of all the Repositories
 
 ## DefCon
-  * [DefCon_SecKC_25](https://github.com/BadgePiratesLLC/DefCon_SecKC_25)  
-  * [DefCon_SecKC_26](https://github.com/BadgePiratesLLC/DefCon_SecKC_26)  
+  * [DefCon_SecKC_25](https://github.com/BadgePiratesLLC/DefCon_SecKC_25)  - Archived  
+  * [DefCon_SecKC_26](https://github.com/BadgePiratesLLC/DefCon_SecKC_26)  - Archived  
   * [DefCon_SecKC_27](https://github.com/BadgePiratesLLC/DefCon_SecKC_27)  - Archived
   * [DefCon_SecKCPartyStar_27](https://github.com/BadgePiratesLLC/DefCon_SecKCPartyStar_27)  
     
 ## BSides
-  * [BSidesKC_2018](https://github.com/BadgePiratesLLC/BSidesKC_2018)  
+  * [BSidesKC_2018](https://github.com/BadgePiratesLLC/BSidesKC_2018)  - Archived  
   * [BSidesKC_2019](https://github.com/BadgePiratesLLC/BSidesKC_2019)  
   * [BSidesKC_Kids_2019](https://github.com/BadgePiratesLLC/BSidesKC_Kids_2019)  
-  * [BSidesSTL_2019](https://github.com/BadgePiratesLLC/BSidesSTL_2019)  
+  * [BSidesSTL_2019](https://github.com/BadgePiratesLLC/BSidesSTL_2019)  - Archived  
 
 ## LTS(Learn to Solder)  
   * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)  
