@@ -6,12 +6,15 @@ Listing of all the Repositories
   * [DefCon_SecKC_26](https://github.com/BadgePiratesLLC/DefCon_SecKC_26) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [DefCon_SecKC_27](https://github.com/BadgePiratesLLC/DefCon_SecKC_27) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [DefCon_SecKCPartyStar_27](https://github.com/BadgePiratesLLC/DefCon_SecKCPartyStar_27)  
+  * [DefCon_SecKC_30](https://github.com/BadgePiratesLLC/)  
     
 ## BSides
   * [BSidesKC_2018](https://github.com/BadgePiratesLLC/BSidesKC_2018) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [BSidesKC_2019](https://github.com/BadgePiratesLLC/BSidesKC_2019)  
   * [BSidesKC_Kids_2019](https://github.com/BadgePiratesLLC/BSidesKC_Kids_2019)  
-  * [BSidesSTL_2019](https://github.com/BadgePiratesLLC/BSidesSTL_2019) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")  
+  * [BSidesSTL_2019](https://github.com/BadgePiratesLLC/BSidesSTL_2019) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
+  * [BSidesKC_2021](https://github.com/BadgePiratesLLC/Project-Arogorn)
+  * [BSidesKC_2022](https://github.com/BadgePiratesLLC/Project-Gimli)
 
 ## LTS(Learn to Solder)  
   * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)  
