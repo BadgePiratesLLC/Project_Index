@@ -13,7 +13,7 @@ Listing of all the Repositories
   * [BSidesKC_2019](https://github.com/BadgePiratesLLC/BSidesKC_2019)  
   * [BSidesKC_Kids_2019](https://github.com/BadgePiratesLLC/BSidesKC_Kids_2019)  
   * [BSidesSTL_2019](https://github.com/BadgePiratesLLC/BSidesSTL_2019) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
-  * [BSidesKC_2021](https://github.com/BadgePiratesLLC/Project-Arogorn)
+  * [BSidesKC_2021](https://github.com/BadgePiratesLLC/Project-aragorn)
   * [BSidesKC_2022](https://github.com/BadgePiratesLLC/Project-Gimli)
 
 ## LTS(Learn to Solder)  
