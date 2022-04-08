@@ -36,7 +36,7 @@ Listing of all the Repositories
   * [Misc_AWSUserGroup](https://github.com/BadgePiratesLLC/Misc_AWSUserGroup)  
   * [Misc_sideview-test](https://github.com/BadgePiratesLLC/Misc_sideview-test)  
   * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2019)
-  * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2021)    
+  * [Misc_OzSec_2021](https://github.com/BadgePiratesLLC/Misc_OzSec_2021)    
   * [Misc_NiteLight](https://github.com/BadgePiratesLLC/Misc_NiteLight)  
   * [Misc_SecKC_Speaker_2018](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2018)  
   * [Misc_SecKC_Speaker_2019](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2019)  
