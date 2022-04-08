@@ -13,7 +13,7 @@ Listing of all the Repositories
   * [BSidesKC_2019](https://github.com/BadgePiratesLLC/BSidesKC_2019) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [BSidesKC_Kids_2019](https://github.com/BadgePiratesLLC/BSidesKC_Kids_2019) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [BSidesSTL_2019](https://github.com/BadgePiratesLLC/BSidesSTL_2019) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
-  * [BSidesKC_2021](https://github.com/BadgePiratesLLC/BSidesKC_2021)
+  * [BSidesKC_2021](https://github.com/BadgePiratesLLC/BSidesKC_2021) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [BSidesKC_2022](https://github.com/BadgePiratesLLC/Project-xxxx)
 
 ## LTS(Learn to Solder)  
@@ -35,7 +35,8 @@ Listing of all the Repositories
   * [Misc_8266DevBoards](https://github.com/BadgePiratesLLC/Misc_8266DevBoards)  
   * [Misc_AWSUserGroup](https://github.com/BadgePiratesLLC/Misc_AWSUserGroup)  
   * [Misc_sideview-test](https://github.com/BadgePiratesLLC/Misc_sideview-test)  
-  * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2019)  
+  * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2019)
+  * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2021)    
   * [Misc_NiteLight](https://github.com/BadgePiratesLLC/Misc_NiteLight)  
   * [Misc_SecKC_Speaker_2018](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2018)  
   * [Misc_SecKC_Speaker_2019](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2019)  
