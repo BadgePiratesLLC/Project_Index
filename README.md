@@ -47,4 +47,4 @@ Listing of all the Repositories
   * [BadgePirates_Common_Library](https://github.com/BadgePiratesLLC/BadgePirates_Common_Library)  
 
 ## BadgePirates Media
-  * [Badge Making] (https://github.com/BadgePiratesLLC/badgemaking)
+  * [Badge Making](https://github.com/BadgePiratesLLC/badgemaking)
