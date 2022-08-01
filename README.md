@@ -24,6 +24,7 @@ Listing of all the Repositories
   * [SAO_wutang](https://github.com/BadgePiratesLLC/SAO_wutang)  
   * [SAO_hank-hill](https://github.com/BadgePiratesLLC/SAO_hank-hill)  
   * [SAO_matrix-hands](https://github.com/BadgePiratesLLC/SAO_matrix-hands)  
+  * [SAO_HankPropane](https://github.com/BadgePiratesLLC/SAO_HankPropane)
 
 ## Celebration
   * [Celebration_2019_MarksmanshipBadge](https://github.com/BadgePiratesLLC/Celebration_2019_MarksmanshipBadge)  
