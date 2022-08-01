@@ -30,7 +30,7 @@ Listing of all the Repositories
 ## Celebration
   * [Celebration_2019_MarksmanshipBadge](https://github.com/BadgePiratesLLC/Celebration_2019_MarksmanshipBadge)  
   * [Celebration_2022](https://github.com/BadgePiratesLLC/Celebration_2022)
-  *  
+
 ## Misc
   * [Misc_1ktwitterfollowers](https://github.com/BadgePiratesLLC/Misc_1ktwitterfollowers)  
   * [Misc_BRCruise_2019](https://github.com/BadgePiratesLLC/Misc_BRCruise_2019)  
@@ -45,6 +45,7 @@ Listing of all the Repositories
   * [Misc_SecKC_Speaker_2019](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2019)  
   * [Misc_esp8266-simple-ota-server](https://github.com/BadgePiratesLLC/Misc_esp8266-simple-ota-server)  
   * [Misc_Mentor](https://github.com/BadgePiratesLLC/Misc_Mentor)  
+  * [Misc_BadgeStand](https://github.com/BadgePiratesLLC/Misc_BadgeStand) 
 
 ## BadgePirate Resources - KiCad Library of Common Foot prints used in Projects
   * [BadgePirates_Common_Library](https://github.com/BadgePiratesLLC/BadgePirates_Common_Library)  
