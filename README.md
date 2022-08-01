@@ -6,7 +6,6 @@ Listing of all the Repositories
   * [DefCon_SecKC_26](https://github.com/BadgePiratesLLC/DefCon_SecKC_26) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [DefCon_SecKC_27](https://github.com/BadgePiratesLLC/DefCon_SecKC_27) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [DefCon_SecKCPartyStar_27](https://github.com/BadgePiratesLLC/DefCon_SecKCPartyStar_27) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
-  * [DefCon_SecKC_30](https://github.com/BadgePiratesLLC/)  
     
 ## BSides
   * [BSidesKC_2018](https://github.com/BadgePiratesLLC/BSidesKC_2018) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
