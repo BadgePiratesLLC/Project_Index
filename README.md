@@ -16,7 +16,8 @@ Listing of all the Repositories
   * [BSidesKC_2022](https://github.com/BadgePiratesLLC/Project-xxxx)
 
 ## LTS(Learn to Solder)  
-  * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)  
+  * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)
+  * [LTS_ToorCamp22Kits](https://github.com/BadgePiratesLLC/LTS_ToorCamp22Kits)  
   
 ## SAO (Shitty Add-Ons)  
   * [SAO_jigglebilly](https://github.com/BadgePiratesLLC/SAO_jigglebilly)  
