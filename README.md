@@ -20,12 +20,15 @@ Listing of all the Repositories
   * [LTS_ToorCamp22Kits](https://github.com/BadgePiratesLLC/LTS_ToorCamp22Kits)  
   
 ## SAO (Shitty Add-Ons)  
-  * [SAO_jigglebilly](https://github.com/BadgePiratesLLC/SAO_jigglebilly) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")  
-  * [SAO_wutang](https://github.com/BadgePiratesLLC/SAO_wutang) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")  
-  * [SAO_hank-hill](https://github.com/BadgePiratesLLC/SAO_hank-hill) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")  
-  * [SAO_matrix-hands](https://github.com/BadgePiratesLLC/SAO_matrix-hands) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")  
+  * [SAO_jigglebilly](https://github.com/BadgePiratesLLC/SAO_jigglebilly) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
+  * [SAO_wutang](https://github.com/BadgePiratesLLC/SAO_wutang) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
+  * [SAO_hank-hill](https://github.com/BadgePiratesLLC/SAO_hank-hill) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
+  * [SAO_matrix-hands](https://github.com/BadgePiratesLLC/SAO_matrix-hands) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [SAO_HankPropane](https://github.com/BadgePiratesLLC/SAO_HankPropane)
   * [SAO_BadgePirates](https://github.com/BadgePiratesLLC/SAO_BadgePirates)
+
+## SAO Totems / Holders
+* [SAO_BadgePirates](https://github.com/BadgePiratesLLC/SAO_Holder-Sword)
 
 ## Celebration
   * [Celebration_2019_MarksmanshipBadge](https://github.com/BadgePiratesLLC/Celebration_2019_MarksmanshipBadge) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")  
