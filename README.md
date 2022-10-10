@@ -28,7 +28,7 @@ Listing of all the Repositories
   * [SAO_BadgePirates](https://github.com/BadgePiratesLLC/SAO_BadgePirates)
 
 ## SAO Totems / Holders
-* [SAO_BadgePirates](https://github.com/BadgePiratesLLC/SAO_Holder-Sword)
+* [SAO_Totem-Sword](https://github.com/BadgePiratesLLC/SAO_Holder-Sword)
 
 ## Celebration
   * [Celebration_2019_MarksmanshipBadge](https://github.com/BadgePiratesLLC/Celebration_2019_MarksmanshipBadge) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")  
