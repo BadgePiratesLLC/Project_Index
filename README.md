@@ -18,6 +18,7 @@ Listing of all the Repositories
 ## Other Cons/Projects
  * [CactusCon_11](https://github.com/BadgePiratesLLC/CactusCon_11)
  * [BiohackVillage_DC30](https://github.com/BadgePiratesLLC/BiohackVillage_DC30)
+ * [SANSHackfest_22](https://github.com/BadgePiratesLLC/SANSHackfest_22)
 
 ## LTS(Learn to Solder)  
   * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)
