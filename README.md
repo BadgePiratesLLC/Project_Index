@@ -15,8 +15,9 @@ Listing of all the Repositories
   * [BSidesKC_2021](https://github.com/BadgePiratesLLC/BSidesKC_2021) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [BSidesKC_2022](https://github.com/BadgePiratesLLC/BSidesKC_2022)
 
-## Other Cons
+## Other Cons/Projects
  * [CactusCon_11](https://github.com/BadgePiratesLLC/CactusCon_11)
+ * [BiohackVillage_DC30](https://github.com/BadgePiratesLLC/BiohackVillage_DC30)
 
 ## LTS(Learn to Solder)  
   * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)
