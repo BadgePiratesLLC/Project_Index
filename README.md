@@ -14,6 +14,7 @@ Listing of all the Repositories
   * [BSidesSTL_2019](https://github.com/BadgePiratesLLC/BSidesSTL_2019) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [BSidesKC_2021](https://github.com/BadgePiratesLLC/BSidesKC_2021) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [BSidesKC_2022](https://github.com/BadgePiratesLLC/BSidesKC_2022)
+  * [BSidesCHS_2022](https://github.com/BadgePiratesLLC/BSidesCHS_2022)
 
 ## Other Cons/Projects
  * [CactusCon_11](https://github.com/BadgePiratesLLC/CactusCon_11)
