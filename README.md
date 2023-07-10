@@ -41,7 +41,7 @@ Listing of all the Repositories
 ## Celebration
   * [Celebration_2019_MarksmanshipBadge](https://github.com/BadgePiratesLLC/Celebration_2019_MarksmanshipBadge) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")  
   * [Celebration_2022](https://github.com/BadgePiratesLLC/Celebration_2022) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
-  * [Celebration_London]
+  * [Celebration_London](https://github.com/BadgePiratesLLC/Celebration_London) 
 
 ## Misc
   * [Misc_1ktwitterfollowers](https://github.com/BadgePiratesLLC/Misc_1ktwitterfollowers)  
