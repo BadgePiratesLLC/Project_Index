@@ -30,7 +30,7 @@ Listing of all the Repositories
 ## LTS(Learn to Solder)  
   * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)
   * [LTS_ToorCamp22Kits](https://github.com/BadgePiratesLLC/LTS_ToorCamp22Kits)
-  * [LTS_Level1Kits](https://github.com/BadgePiratesLLC/LTS---Level1)
+  * [LTS_Level1Kits](https://github.com/BadgePiratesLLC/LTS-Level1)
   
 ## SAO (Shitty Add-Ons)  
   * [SAO_jigglebilly](https://github.com/BadgePiratesLLC/SAO_jigglebilly) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
