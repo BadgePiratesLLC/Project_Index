@@ -6,6 +6,8 @@ Listing of all the Repositories
   * [DefCon_SecKC_26](https://github.com/BadgePiratesLLC/DefCon_SecKC_26) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [DefCon_SecKC_27](https://github.com/BadgePiratesLLC/DefCon_SecKC_27) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [DefCon_SecKCPartyStar_27](https://github.com/BadgePiratesLLC/DefCon_SecKCPartyStar_27) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
+  * [DefCon BioHacking Village 30]()
+  * [DefCon BioHacking Village 31]()
     
 ## BSides
   * [BSidesKC_2018](https://github.com/BadgePiratesLLC/BSidesKC_2018) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
@@ -15,6 +17,8 @@ Listing of all the Repositories
   * [BSidesKC_2021](https://github.com/BadgePiratesLLC/BSidesKC_2021) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [BSidesKC_2022](https://github.com/BadgePiratesLLC/BSidesKC_2022)
   * [BSidesCHS_2022](https://github.com/BadgePiratesLLC/BSidesCHS_2022)
+  * [BSidesSTL_2023](https://github.com/BadgePiratesLLC/BSidesSTL_2023).
+  * [BSidesKC_2023]().
 
 ## Other Cons/Projects
  * [CactusCon_11](https://github.com/BadgePiratesLLC/CactusCon_11)
@@ -51,7 +55,8 @@ Listing of all the Repositories
   * [Misc_AWSUserGroup](https://github.com/BadgePiratesLLC/Misc_AWSUserGroup)  
   * [Misc_sideview-test](https://github.com/BadgePiratesLLC/Misc_sideview-test)  
   * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2019)
-  * [Misc_OzSec_2021](https://github.com/BadgePiratesLLC/Misc_OzSec_2021)    
+  * [Misc_OzSec_2021](https://github.com/BadgePiratesLLC/Misc_OzSec_2021)
+  * [Misc OzSec 2023]().   
   * [Misc_NiteLight](https://github.com/BadgePiratesLLC/Misc_NiteLight)  
   * [Misc_SecKC_Speaker_2018](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2018)  
   * [Misc_SecKC_Speaker_2019](https://github.com/BadgePiratesLLC/Misc_SecKC_Speaker_2019)  
