@@ -6,7 +6,7 @@ Listing of all the Repositories
   * [DefCon_SecKC_26](https://github.com/BadgePiratesLLC/DefCon_SecKC_26) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [DefCon_SecKC_27](https://github.com/BadgePiratesLLC/DefCon_SecKC_27) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [DefCon_SecKCPartyStar_27](https://github.com/BadgePiratesLLC/DefCon_SecKCPartyStar_27) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
-  * [DefCon BioHacking Village 30](https://github.com/BadgePiratesLLC/BioHackingVillage_30)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
+  * [DefCon BioHacking Village 30](https://github.com/BadgePiratesLLC/BiohackVillage_DC30)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [DefCon BioHacking Village 31](https://github.com/BadgePiratesLLC/BioHackingVillage_31)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
     
 ## BSides
