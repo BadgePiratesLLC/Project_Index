@@ -22,6 +22,7 @@ Listing of all the Repositories
 
 ## Other Cons/Projects
  * [CactusCon_11](https://github.com/BadgePiratesLLC/CactusCon_11)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
+ * [CactusCon_12](https://github.com/BadgePiratesLLC/CactusCon-12)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
  * [SANSHackfest_22](https://github.com/BadgePiratesLLC/SANSHackfest_22)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
  * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2019)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
  * [Misc_OzSec_2021](https://github.com/BadgePiratesLLC/Misc_OzSec_2021)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
@@ -31,6 +32,7 @@ Listing of all the Repositories
   * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)
   * [LTS_ToorCamp22Kits](https://github.com/BadgePiratesLLC/LTS_ToorCamp22Kits)
   * [LTS_Level1Kits](https://github.com/BadgePiratesLLC/LTS-Level1)
+  * [LTS_Level1Kits](https://github.com/BadgePiratesLLC/LTS-Level1.5)
   
 ## SAO (Shitty Add-Ons)  
   * [SAO_jigglebilly](https://github.com/BadgePiratesLLC/SAO_jigglebilly) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
@@ -39,6 +41,7 @@ Listing of all the Repositories
   * [SAO_matrix-hands](https://github.com/BadgePiratesLLC/SAO_matrix-hands) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [SAO_HankPropane](https://github.com/BadgePiratesLLC/SAO_HankPropane)
   * [SAO_BadgePirates](https://github.com/BadgePiratesLLC/SAO_BadgePirates)
+  * [SAO_BadgePirates](https://github.com/BadgePiratesLLC/SAO_BPLabs)
 
 ## SAO Totems / Holders
 * [SAO_Totem-Sword](https://github.com/BadgePiratesLLC/SAO_Holder-Sword)
