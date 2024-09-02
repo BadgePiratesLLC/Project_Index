@@ -26,13 +26,13 @@ Listing of all the Repositories
  * [SANSHackfest_22](https://github.com/BadgePiratesLLC/SANSHackfest_22)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
  * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2019)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
  * [Misc_OzSec_2021](https://github.com/BadgePiratesLLC/Misc_OzSec_2021)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
- * [Misc OzSec 2023]().   
+ * [Misc OzSec 2023]()![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
 
 ## LTS(Learn to Solder)  
   * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)
   * [LTS_ToorCamp22Kits](https://github.com/BadgePiratesLLC/LTS_ToorCamp22Kits)
   * [LTS_Level1Kits](https://github.com/BadgePiratesLLC/LTS-Level1)
-  * [LTS_Level1Kits](https://github.com/BadgePiratesLLC/LTS-Level1.5)
+  * [LTS_Level1.5Kits](https://github.com/BadgePiratesLLC/LTS-Level1.5)
   
 ## SAO (Shitty Add-Ons)  
   * [SAO_jigglebilly](https://github.com/BadgePiratesLLC/SAO_jigglebilly) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
