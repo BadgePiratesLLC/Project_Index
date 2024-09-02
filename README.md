@@ -17,8 +17,8 @@ Listing of all the Repositories
   * [BSidesKC_2021](https://github.com/BadgePiratesLLC/BSidesKC_2021) ![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") 
   * [BSidesKC_2022](https://github.com/BadgePiratesLLC/BSidesKC_2022)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
   * [BSidesCHS_2022](https://github.com/BadgePiratesLLC/BSidesCHS_2022)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
-  * [BSidesSTL_2023](https://github.com/BadgePiratesLLC/BSidesSTL_2023).
-  * [BSidesKC_2023](https://github.com/BadgePiratesLLC/BSidesKC_2023).
+  * [BSidesSTL_2023](https://github.com/BadgePiratesLLC/BSidesSTL_2023)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
+  * [BSidesKC_2023](https://github.com/BadgePiratesLLC/BSidesKC_2023)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
 
 ## Other Cons/Projects
  * [CactusCon_11](https://github.com/BadgePiratesLLC/CactusCon_11)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
