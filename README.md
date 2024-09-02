@@ -26,7 +26,7 @@ Listing of all the Repositories
  * [SANSHackfest_22](https://github.com/BadgePiratesLLC/SANSHackfest_22)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
  * [Misc_OzSec_2019](https://github.com/BadgePiratesLLC/Misc_OzSec_2019)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
  * [Misc_OzSec_2021](https://github.com/BadgePiratesLLC/Misc_OzSec_2021)![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
- * [Misc OzSec 2023]()![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
+ * [Misc OzSec 2023](https://github.com/BadgePiratesLLC/OzSec23)()![alt text](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
 
 ## LTS(Learn to Solder)  
   * [LTS_BPSolderKits](https://github.com/BadgePiratesLLC/LTS_BPSolderKits)
