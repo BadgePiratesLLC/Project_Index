@@ -48,14 +48,14 @@ md += '# Project Index\n';
 md += 'Public repository directory for **BadgePiratesLLC**.\n\n';
 md += '> Note: Private/internal repos are intentionally not listed here.\n\n';
 md += 'Legend: ';
-md += `![Archived](https://github.com/BadgePiratesLLC/Project_Index/blob/main/icons8-lock-24.png "Archived") = archived\n\n`;
+md += `![Archived](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived") = archived\n\n`;
 
 for(const cat of order){
   const arr = groups.get(cat);
   if(!arr || !arr.length) continue;
   md += `## ${cat}\n`;
   for(const r of arr){
-    const archived = r.isArchived ? ` ![Archived](https://github.com/BadgePiratesLLC/Project_Index/blob/main/icons8-lock-24.png "Archived")` : '';
+    const archived = r.isArchived ? ` ![Archived](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")` : '';
     md += `${mdLink(r)}${archived}\n`;
   }
   md += '\n';
