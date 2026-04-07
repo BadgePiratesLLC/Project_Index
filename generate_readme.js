@@ -1,8 +1,7 @@
 const { execFileSync } = require('child_process');
 
 function ghJson(args){
-  const gh = 'C:/Program Files/GitHub CLI/gh.exe';
-  const out = execFileSync(gh, args, { encoding:'utf8' });
+  const out = execFileSync('gh', args, { encoding:'utf8' });
   return JSON.parse(out);
 }
 

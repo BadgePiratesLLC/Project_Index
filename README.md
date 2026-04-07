@@ -11,6 +11,7 @@ Legend: ![Archived](https://github.com/BadgePiratesLLC/Project_Index/blob/master
 ## Projects
 * [badgemaking](https://github.com/BadgePiratesLLC/badgemaking)
 * [BadgePirates_Common_Library](https://github.com/BadgePiratesLLC/BadgePirates_Common_Library)
+* [badgepirates-wifi-marauder](https://github.com/BadgePiratesLLC/badgepirates-wifi-marauder)
 * [Celebration_2019_MarksmanshipBadge](https://github.com/BadgePiratesLLC/Celebration_2019_MarksmanshipBadge) ![Archived](https://github.com/BadgePiratesLLC/Project_Index/blob/master/icons8-lock-24.png "Archived")
 * [Misc_BadgeStand](https://github.com/BadgePiratesLLC/Misc_BadgeStand)
 * [my-badge-life](https://github.com/BadgePiratesLLC/my-badge-life)
